@@ -1,0 +1,1 @@
+this project is about predicting if college admit student or not based on exams
